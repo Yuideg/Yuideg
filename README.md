@@ -3,7 +3,7 @@
 
 ---
 
-🧠 I’m a senior backend engineer with 5+ years of experience in designing and scaling robust backend systems using **Python/Django**.  
+🧠 I’m a senior backend engineer with 4+ years of experience in designing and scaling robust backend systems using **Python/Django**.  
 I build and deploy full-stack solutions, lead CI/CD automation, and specialize in **cloud-native development** with **Docker, GitLab/GitHub pipelines, and AWS**.
 
 ---
@@ -49,8 +49,7 @@ I build and deploy full-stack solutions, lead CI/CD automation, and specialize i
 
 ### 📌 Featured Projects
 - 🚀 **FinTrack** – Personal finance manager (Django + React Native + PostgreSQL + Docker)
-- 🏥 **Clinic Master Backend** – Role-based dental clinic system (Django + PostgreSQL + Nginx)
-- 🌐 **Multilingual CMS** – Headless Django CMS with i18n and TypeScript frontend (Next.js)
+- 🏥 **FINBIT Backend** – Role-based finanical managment system (Django + PostgreSQL + Nginx,AWS )
 
 ---
 
