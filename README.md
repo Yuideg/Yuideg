@@ -41,7 +41,7 @@ I build and deploy full-stack solutions, lead CI/CD automation, and specialize i
 ---
 
 ### 🧩 Git & Version Control
-- 🐙 GitHub + 🦊 GitLab for collaboration and CI/CD
+- 🐙 GitHub + 🦊 GitLab(mostly used) for collaboration and CI/CD
 - 📦 Mono and poly-repo workflows
 - 💡 Test-driven development, branch strategy, and release cycles
 
