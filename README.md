@@ -63,9 +63,9 @@ I build and deploy full-stack solutions, lead CI/CD automation, and specialize i
 ---
 
 ### 📫 Contact Me
-- 💬 Telegram: [@sahlemariam_21](https://t.me/sahlemariam_21)
+- 💬 Telegram: [Telegram](https://t.me/sahlemariam_21)
 - 📧 Email: misganewendeg879@gmail.com
-- 💼 LinkedIn: [@yideg](https://linkedin.com/in/yideg)
+- 💼 LinkedIn: [Linkedin](https://linkedin.com/in/yideg)
 
 ---
 
