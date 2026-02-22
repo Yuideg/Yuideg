@@ -48,7 +48,7 @@ I build and deploy full-stack solutions, lead CI/CD automation, and specialize i
 ---
 
 ### 📌 Featured Projects
-- 🚀 **FinTrack** – Personal finance manager (Django + React Native + PostgreSQL + Docker)
+- 🚀 **FinTrack** – Personal finance manager (Django + React Native + PostgreSQL)
 - 🏥 **FINBIT Backend** – Role-based finanical managment system (Django + PostgreSQL + Nginx,AWS )
 
 ---
